@@ -1,0 +1,14 @@
+TEXTURES 14
+Textures/colormap.bmp
+
+Textures/Wall.bmp
+Textures/Water.bmp
+
+
+
+Textures/down.bmp
+Textures/space.bmp
+Textures/carpet.bmp
+Textures/fur.bmp
+Textures/sky2.bmp
+Textures/normal.bmp
